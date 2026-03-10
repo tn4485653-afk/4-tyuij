@@ -26,7 +26,7 @@ intents.message_content = True
 
 bot = commands.Bot(command_prefix="!", intents=intents)
 
-API = "https://sikibidivisits.onrender.com/visit?region=vn&uid="
+API = "https://v-it.onrender.com/visit?region=vn&uid="
 
 TOTAL_VISITS = 1500
 BATCH_SIZE = 50
